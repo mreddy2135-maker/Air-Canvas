@@ -1,6 +1,6 @@
-Air Canvas - Virtual Drawing Tool  
+🎨Air Canvas - Virtual Drawing Tool  
 Developer: Manvitha Reddy
-Domain: AI & Data Science  
+Domain: AI & Data Science
 
 📖 Project Description  
 Air Canvas is a computer vision application that allows users to draw on a digital canvas using hand gestures in the air. By leveraging OpenCV and MediaPipe, the system tracks the index finger's movement in real-time to draw lines, while using the middle finger to toggle between "Drawing Mode" and "Selection Mode."  
